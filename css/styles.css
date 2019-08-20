@@ -95,14 +95,14 @@ img {
 
 }
 
-/*----------------parte de baixo---------------*/
+/*----------------parte do meio---------------*/
 .row {
   background-color: white;
   box-shadow: 0 4px 6px #bbb9bf;
   border-radius: 20px;
   display: block;
   height: 400px;
-  width: 1200px;
+  width: 1140px;
   margin: 100px auto 0;
 
 }
