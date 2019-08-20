@@ -143,28 +143,42 @@ img {
   width: 500px;
 }
 
+/*-------------------footer--------------------*/
+
 .row-bottom {
   background-color: white;
   box-shadow: 0 4px 6px  #bbb9bf;
   border-radius: 20px;
   display: block;
-  height: 250px;
+  height: 220px;
   width: 600px;
-  margin: 100px auto 0;
+  margin: -165px auto 0;
+}
+
+.bottom-title {
+  text-align: center;
+  padding-top: 50px;
+  margin: 0;
 }
 
 .button-bottom {
+  align-content: center;
   border-radius: 60px;
+  box-shadow: 0 4px 6px  #bbb9bf;
   color: #ffffff;
   font-size: 16px;
+  left: 483.5px;
   background: pink;
   background: hsl(322, 100%, 66%);
   padding: 20px 66px;
   text-decoration: none;
-  margin: auto;
+  margin: 25px auto auto;
 }
 
 .bottom-container {
+  position: absolute;
+  top: 2460px;
   background-color: darkblue;
   background-color: hsl(192, 100%, 9%);
+  height: 455px;
 }
